@@ -24,8 +24,9 @@ fun1=@(k)gFlow(k,it,concCSF,concTissue,dt,points); %fit the model
 
 [kest,fval,exitflag,output] = fminunc(fun1,k0);
 
-q = kest(1)*tissueVolume
-ve = kest(1)/kest(2)
+q = kest(1)*tissueVolume %Glymphatic flow rate
+
+ve = kest(1)/kest(2) %ISF volume fraction
 
 %% Support functions
 
