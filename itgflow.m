@@ -9,7 +9,7 @@
 %  a matrix of CSF concentrations (Nrois X time), as well as a given k1 and
 %  k2.
 %
-%  simulatedData.mat file contains simulated concentrations for a
+%  simulatedData.mat file contains simulated concentrations (q=500, ve=.25) for a
 %  set of CSF (concCSF) and tissue ROIs (concTissue, in mMol), a vector
 %  with time points for the interpolated curves (it, in hours), the time
 %  step of the interpolation (dt, in hours), and the temporal position of the
