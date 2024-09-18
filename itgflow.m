@@ -5,7 +5,7 @@
 %  gFlow is the function for estimating k1 and k2 from which glymphatic flow
 %  rate and ISF volume fraction can be calculated.
 
-%  getEstCt is a support function that simulates brain tissue concentrations given
+%  getEstCt is a support function that calculates brain tissue concentrations given
 %  a matrix of CSF concentrations (Nrois X time), as well as a given k1 and
 %  k2.
 %
