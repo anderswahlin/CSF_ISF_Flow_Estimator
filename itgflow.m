@@ -15,7 +15,7 @@
 %  step of the interpolation (dt, in hours), and the temporal position of the
 %  original MRI measurments (points).
 %
-%%
+%% Main section
 load simulatedData.mat
 
 k0 = zeros(1,2)
