@@ -1,4 +1,4 @@
-%% Code developed for the paper "Quantitative assessment of flow between cerebrospinal and interstitial fluid compartments in humans" submitted to Nature Neuroscience
+%% Code developed for the paper "Quantitative assessment of flow between cerebrospinal and interstitial fluid compartments in humans".
 %
 %  Code-authors: Anders Wåhlin, Viktor Vigren Näslund, Anders Eklund
 %
