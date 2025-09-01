@@ -1,2 +1,2 @@
-This is an example how to calculate glymphatic flow rate based on quantitative MRI measurments of CSF and brain tissue Gadolinium concentrations following intrathecal injections.
-More description available in itgflow.m
+This is an example how to calculate cerebrospinal-to-interstitial fluid flow rate based on quantitative MRI measurments of CSF and brain tissue Gadolinium concentrations following intrathecal injections.
+
