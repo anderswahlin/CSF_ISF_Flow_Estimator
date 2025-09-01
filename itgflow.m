@@ -2,7 +2,7 @@
 %
 %  Code-authors: Anders Wåhlin, Viktor Vigren Näslund, Anders Eklund
 %
-%  gFlow is the function for estimating k1 and k2 from which glymphatic flow
+%  gFlow is the function for estimating k1 and k2 from which CSF-to-ISF flow
 %  rate and ISF volume fraction can be calculated.
 
 %  getEstCt is a support function that calculates brain tissue concentrations given
