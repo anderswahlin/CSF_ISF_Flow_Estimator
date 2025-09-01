@@ -1,4 +1,4 @@
-%% Code developed for the paper "Assessment of the Rate and Primary Pathway of Glymphatic Flow Through the Human Brain" submitted to Science Translational Medicine
+%% Code developed for the paper "Quantitative assessment of flow between cerebrospinal and interstitial fluid compartments in humans" submitted to Nature Neuroscience
 %
 %  Code-authors: Anders Wåhlin, Viktor Vigren Näslund, Anders Eklund
 %
